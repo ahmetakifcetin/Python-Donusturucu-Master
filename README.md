@@ -21,7 +21,7 @@ pip install pytube moviepy
 3. Projeyi çalıştırın. YouTube video url'sini girin.
 
 
-##Katkıda Bulunma
+## Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen bir çekme isteği (Pull Request) göndermeden önce aşağıdaki adımları takip edin:
 
 1. Kendi klonunuzu oluşturun.
@@ -35,8 +35,8 @@ git fork https://github.com/sizin-kullanici-adi/Python-Donusturucu-Master.git
 
 3. Değişikliklerinizi bir çekme isteği ile gönderin.
 
-##Lisans
+## Lisans
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE.md dosyasına bakın.
 
-##Geliştirici
-Ahmet Akif Çetin
+## Geliştirici
+© 2023 Ahmet Akif Çetin. Tüm hakları saklıdır.
