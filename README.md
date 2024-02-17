@@ -7,7 +7,7 @@ YouTube videolarını indirip MP3 formatına dönüştüren Python projesi. Aşa
 1. Bu projeyi bilgisayarınıza klonlayın veya indirin.
 
 ```bash
-git clone https://github.com/sizin-kullanici-adi/Python-Donusturucu-Master.git
+git clone https://github.com/ahmetakifcetin/Python-Donusturucu-Master.git
 
 ```
 
@@ -27,7 +27,7 @@ Eğer bu projeye katkıda bulunmak isterseniz, lütfen bir çekme isteği (Pull 
 1. Kendi klonunuzu oluşturun.
 
 ```bash
-git fork https://github.com/sizin-kullanici-adi/Python-Donusturucu-Master.git
+git fork https://github.com/ahmetakifcetin/Python-Donusturucu-Master.git
 
 ```
 
